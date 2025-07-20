@@ -84,7 +84,7 @@ Note: Each "Method" folder contains the notebooks relevant to the implementation
 - **Thimira Sahan**  
   [LinkedIn](linkedin.com/in/thimira-sahan)
 - **Madhushankha de Silva**  
-  [LinkedIn](linkedin.com/in/madhushankha-de-silva-5bb58129a)
+  [LinkedIn](https://www.linkedin.com/in/madhushankha-de-silva-5bb58129a/))
 - **Anas Hussaindeen**  
   [LinkedIn](linkedin.com/in/anas-hussaindeen)
 - **Vihnaga Muthumala**  
