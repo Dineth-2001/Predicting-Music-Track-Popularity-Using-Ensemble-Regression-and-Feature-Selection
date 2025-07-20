@@ -44,14 +44,15 @@ Given below are the approaches used for this project.
 ├── Dataset/ <br>
 │   ├── train.csv <br>
 │   └── test.csv <br>
-├── Method A/
-├── Method B/
-├── Method C/
-├── Method D/
-├── Method E/
-├── Method F/
-├── Predicting Music Track Popularity.pdf
-└── README.md
+├── Method A/ <br>
+├── Method B/ <br>
+├── Method C/ <br>
+├── Method D/ <br>
+├── Method E/ <br>
+├── Method F/ <br>
+├── Predicting Music Track Popularity.pdf <br>
+└── README.md <br>
+Note: Each "Method" folder contains the notebooks relevant to the implementation of the method.
 
 ---
 
