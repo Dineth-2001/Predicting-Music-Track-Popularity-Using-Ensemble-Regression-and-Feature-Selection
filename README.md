@@ -40,7 +40,7 @@ Given below are the approaches used for this project.
 ---
 
 ## Repository Structure
-.
+. <br>
 ├── Dataset/ <br>
 │   ├── train.csv <br>
 │   └── test.csv <br>
