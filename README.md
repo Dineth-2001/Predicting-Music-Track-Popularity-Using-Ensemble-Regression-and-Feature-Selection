@@ -80,14 +80,14 @@ Note: Each "Method" folder contains the notebooks relevant to the implementation
 ## Authors
 
 - **Dineth Randula**  
-  [LinkedIn](linkedin.com/in/dineth-randula-11814b283)
+  [LinkedIn](linkedin.com/in/dineth-randula-11814b283/)
 - **Thimira Sahan**  
   [LinkedIn](linkedin.com/in/thimira-sahan)
 - **Madhushankha de Silva**  
-  [LinkedIn](https://www.linkedin.com/in/madhushankha-de-silva-5bb58129a/))
+  [LinkedIn](https://www.linkedin.com/in/madhushankha-de-silva-5bb58129a/)
 - **Anas Hussaindeen**  
   [LinkedIn](linkedin.com/in/anas-hussaindeen)
 - **Vihnaga Muthumala**  
-  [LinkedIn](linkedin.com/in/vihanga-muthumala-678451277)
+  [LinkedIn](linkedin.com/in/vihanga-muthumala-678451277/)
 - **Dilanka Heshan**  
-  [LinkedIn](linkedin.com/in/dilanka-heshan-93935b219)
+  [LinkedIn](linkedin.com/in/dilanka-heshan-93935b219/)
